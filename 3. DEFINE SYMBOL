@@ -3,3 +3,4 @@ numbers dw 0012H ;hex
 number db 25 ;dec
 letter db 'A'
 word db 'hello' 
+https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F569a5fe1-f35a-4053-b3c7-425e64a031bc%2F8db16a20-8c62-4d4f-acb0-8833734d0ede%2FUntitled.png?table=block&id=ffa9833f-14c5-4a4e-8daa-b52034ce3150&spaceId=569a5fe1-f35a-4053-b3c7-425e64a031bc&width=2000&userId=e636a53a-d39a-464e-96c7-a889aa8ba4bc&cache=v2
