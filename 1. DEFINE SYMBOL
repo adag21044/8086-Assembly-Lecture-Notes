@@ -3,3 +3,4 @@ numbers dw 0012H ;hex
 number db 25 ;dec
 letter db 'A'
 word db 'hello' 
+
