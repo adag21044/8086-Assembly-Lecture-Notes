@@ -1,8 +1,0 @@
-;General Syntax
-
-.MODEL SMALL
-.DATA
-..............
-
-.CODE
-..............

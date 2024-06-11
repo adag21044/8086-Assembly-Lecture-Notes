@@ -1,5 +1,0 @@
-number db 12H ;8 bit hex
-numbers dw 0012H ;hex
-number db 25 ;dec
-letter db 'A'
-word db 'hello' 
