@@ -1,0 +1,21 @@
+.MODEL SMALL
+.DATA
+..............
+
+.CODE
+..............
+
+
+
+;OR
+
+
+.MODEL SMALL
+
+Data SEGMENT
+	data   db 1, 2, 3
+	number dw 0012H
+Data ENDS
+
+Code SEGMENT
+Code ENDS
